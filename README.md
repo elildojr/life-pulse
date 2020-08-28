@@ -1,7 +1,7 @@
 # life-pulse
 Exploring animal activity in space-time
 
-This GitHub repository contains codes for playing with camera trap data, more specifically activity patterns in space and time. This is a work in progress so the codes are experimental and still raw. 
+This repository contains codes to explore animal activity in space and time. This is a work in progress so the codes are still raw. 
 
 ### Description
 ```src``` This directory contains main analysis codes.
@@ -11,10 +11,6 @@ This GitHub repository contains codes for playing with camera trap data, more sp
 ```bin``` A bundle of useful codes and functions created to explore the data.
 
 ```results``` Contains results from the data exploration such as tables, figures etc. 
-
-# Getting Started 
-1. bla
-2. bla.
 
 
 # Setting up R Locally
